@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "roboto-condensed-fontface-regular-italic.css",
+  "sources": [
+    "roboto-condensed-fontface-regular-italic.scss",
+    "../../mixins.scss"
+  ],
+  "mappings": "ACMI,UAAU;EACN,WAAW,EAAE,kBAAa;EAC1B,GAAG,EAAE,yEAAG;EACR,GAAG,EAAE,uCAAK,EACL,uCAAK,EACL,gFAAG,CAA2C,2BAAM,EACpD,2EAAG,CAAsC,eAAM,EAC/C,0EAAG,CAAqC,cAAM,EAC9C,yEAAG,CAAoC,kBAAM,EAC7C,0FAAG,CAAgD,aAAM;EAC9D,WAAW,EDd2D,GAAG;ECezE,UAAU,EDfiE,MAAM;;ACkBrF,UAAU;EACN,WAAW,EAAE,gCAAsB;EACnC,GAAG,EAAE,yEAAG;EACR,GAAG,EAAE,uCAAK,EACL,uCAAK,EACL,gFAAG,CAA2C,2BAAM,EACpD,2EAAG,CAAsC,eAAM,EAC/C,0EAAG,CAAqC,cAAM,EAC9C,yEAAG,CAAoC,kBAAM,EAC7C,0FAAG,CAAgD,aAAM",
+  "names": []
+}

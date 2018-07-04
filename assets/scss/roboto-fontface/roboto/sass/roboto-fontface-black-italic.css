@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../../../fonts/roboto/Roboto-BlackItalic.eot");
+  src: local("Roboto BlackItalic"), local("Roboto-BlackItalic"), url("../../../fonts/roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../../../fonts/roboto/Roboto-BlackItalic.woff2") format("woff2"), url("../../../fonts/roboto/Roboto-BlackItalic.woff") format("woff"), url("../../../fonts/roboto/Roboto-BlackItalic.ttf") format("truetype"), url("../../../fonts/roboto/Roboto-BlackItalic.svg#Roboto") format("svg");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Roboto-BlackItalic";
+  src: url("../../../fonts/roboto/Roboto-BlackItalic.eot");
+  src: local("Roboto BlackItalic"), local("Roboto-BlackItalic"), url("../../../fonts/roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../../../fonts/roboto/Roboto-BlackItalic.woff2") format("woff2"), url("../../../fonts/roboto/Roboto-BlackItalic.woff") format("woff"), url("../../../fonts/roboto/Roboto-BlackItalic.ttf") format("truetype"), url("../../../fonts/roboto/Roboto-BlackItalic.svg#Roboto") format("svg"); }
+
+/*# sourceMappingURL=roboto-fontface-black-italic.css.map */

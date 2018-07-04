@@ -1,0 +1,10 @@
+addProjectToList({
+  "projects": {
+    "YouProject": {
+      "url": "http://example.com",
+      "favicon": "/favicon.ico",
+      "title": "YouProject",
+      "isDefault": false
+    }
+  }
+});

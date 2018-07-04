@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Roboto-Slab";
+  src: url("../../../fonts/roboto-slab/Roboto-Slab-Bold.eot");
+  src: local("Roboto-Slab Bold"), local("Roboto-Slab-Bold"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.eot?#iefix") format("embedded-opentype"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.woff2") format("woff2"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.woff") format("woff"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.ttf") format("truetype"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.svg#Roboto-Slab") format("svg");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Roboto-Slab-Bold";
+  src: url("../../../fonts/roboto-slab/Roboto-Slab-Bold.eot");
+  src: local("Roboto-Slab Bold"), local("Roboto-Slab-Bold"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.eot?#iefix") format("embedded-opentype"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.woff2") format("woff2"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.woff") format("woff"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.ttf") format("truetype"), url("../../../fonts/roboto-slab/Roboto-Slab-Bold.svg#Roboto-Slab") format("svg"); }
+
+/*# sourceMappingURL=roboto-slab-fontface-bold.css.map */

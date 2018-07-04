@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="ie ie6 lte9 lte8 lte7" lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html class="ie ie7 lte9 lte8 lte7" lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 lte9 lte8" lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 9]>
+<html class="ie ie9" lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if gt IE 9]>
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="content-language" content="ru">
+        <title>Demo Testing Tool (DTT)</title>
+        <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+        <!--[if IE]>
+            <link rel="stylesheet" href="/assets/css/ie.css" type="text/css">
+        <![endif]-->
+        <link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/assets/icons/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="/assets/icons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/assets/icons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.png" type="image/png">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/assets/icons/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+        <meta name="author" content="W.D.M.Group, Ukraine">
+        <!--[if lt IE 9]>
+            <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+	<body class="index" role="document">
+		<header>
+			<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+				<a class="navbar-brand" href="#">Demo Testing Tool</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#toolsMainNavbar" aria-controls="toolsMainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="toolsMainNavbar">
+					<ul id="selectProjects" class="navbar-nav ml-4 mr-auto">
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Select project
+							</a>
+							<ul class="dropdown-menu"></ul>
+						</li>
+					</ul>
+					<ul id="selectSize" class="navbar-nav mr-auto">
+						<li class="nav-item active">
+							<a class="nav-link" href="#desktop" data-screen="desktop" data-orientation="horizontal"><span class="fa fa-lg fa-desktop"></span></a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#tablet" data-screen="laptop" data-orientation="horizontal"><span class="fa fa-lg fa-laptop"></span></a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#tablet" data-screen="tablet" data-orientation="vertical"><span class="fa fa-lg fa-tablet"></span></a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#mobile" data-screen="mobile" data-orientation="vertical"><span class="fa fa-lg fa-mobile-phone"></span></a>
+						</li>
+					</ul>
+					<form id="viewMode" class="form-inline ml-0 mr-auto">
+						<div class="input-group form-check">
+							<input type="checkbox" class="form-check-input" id="fitToView">
+							<label class="form-check-label" for="fitToView">- fit to view</label>
+						</div>
+					</form>
+					<form id="followToUrl" class="form-inline my-2 my-lg-0">
+						<div class="input-group">
+							<input name="follow" class="form-control" type="text" placeholder="or enter URL..." aria-label="Follow to URL">
+							<div class="input-group-append">
+								<button class="btn btn-success my-2 my-sm-0" type="submit">Go!</button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</nav>
+		</header>
+		<div class="main-frame">
+			<iframe id="mainFrame" src="blank.html" frameborder="0" width="100%" style="width:100%;height:100vh;"></iframe>
+		</div>
+		<script type="text/javascript" src="/assets/js/jquery.js"></script>
+		<script type="text/javascript" src="/assets/js/helper.js"></script>
+		<script type="text/javascript" src="/assets/js/popper.js"></script>
+		<script type="text/javascript" src="/assets/js/bootstrap.js"></script>
+		<script type="text/javascript" src="/assets/js/core.js"></script>
+	</body>
+</html>

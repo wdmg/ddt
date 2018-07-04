@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../../../fonts/roboto/Roboto-Light.eot");
+  src: local("Roboto Light"), local("Roboto-Light"), url("../../../fonts/roboto/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("../../../fonts/roboto/Roboto-Light.woff2") format("woff2"), url("../../../fonts/roboto/Roboto-Light.woff") format("woff"), url("../../../fonts/roboto/Roboto-Light.ttf") format("truetype"), url("../../../fonts/roboto/Roboto-Light.svg#Roboto") format("svg");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../../../fonts/roboto/Roboto-Light.eot");
+  src: local("Roboto Light"), local("Roboto-Light"), url("../../../fonts/roboto/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("../../../fonts/roboto/Roboto-Light.woff2") format("woff2"), url("../../../fonts/roboto/Roboto-Light.woff") format("woff"), url("../../../fonts/roboto/Roboto-Light.ttf") format("truetype"), url("../../../fonts/roboto/Roboto-Light.svg#Roboto") format("svg"); }
+
+/*# sourceMappingURL=roboto-fontface-light.css.map */
