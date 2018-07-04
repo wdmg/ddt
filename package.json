@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/wdmg/ddt.git"
+    "url": "git+ssh://github.com/wdmg/dtt.git"
   },
   "homepage": "https://demo.wdmg.com.ua/"
 }
