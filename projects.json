@@ -1,9 +1,9 @@
 addProjectToList({
   "projects": {
-    "YouProject": {
+    "YourProject": {
       "url": "http://example.com",
       "favicon": "/favicon.ico",
-      "title": "YouProject",
+      "title": "Your Project",
       "isDefault": false
     }
   }

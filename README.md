@@ -1,2 +1,3 @@
-# ddt
-Demo Testing Tool (DTT)
+# Demo Testing Tool (DTT)
+
+A small online utility for testing the adaptability of your projects.
