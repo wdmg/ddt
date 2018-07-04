@@ -1,5 +1,6 @@
 .idea
 package-lock.json
+projects.json
 .sass-cache/*
 node_modules/*
 /.project
