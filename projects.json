@@ -1,9 +1,111 @@
 addProjectToList({
   "projects": {
-    "YourProject": {
-      "url": "http://example.com",
+    "One Stone": {
+      "url": "http://one-stone.ru",
       "favicon": "/favicon.ico",
-      "title": "Your Project",
+      "title": "One Stone",
+      "isDefault": false
+    },
+    "Prime": {
+      "url": "http://primekuban.ru",
+      "favicon": "/favicon.ico",
+      "title": "PrimeKuban",
+      "isDefault": false
+    },
+    "SaltoGioielli": {
+      "url": "https://salto-gioielli.com",
+      "favicon": "/favicon.ico",
+      "title": "Salto Gioielli",
+      "isDefault": false
+    },
+    "Prime": {
+      "url": "http://primekuban.ru",
+      "favicon": "/favicon.ico",
+      "title": "PrimeKuban",
+      "isDefault": false
+    },
+    "GPoint": {
+      "url": "http://gpointlife.com",
+      "favicon": "/favicon.ico",
+      "title": "G•Point",
+      "isDefault": false
+    },
+    "Zotti": {
+      "url": "https://zotti.ua",
+      "favicon": "/favicon.ico",
+      "title": "Zotti",
+      "isDefault": false
+    },
+    "Concordia": {
+      "url": "http://concordia.com.ua",
+      "favicon": "/favicon.ico",
+      "title": "Concordia",
+      "isDefault": false
+    },
+    "Verena": {
+      "url": "https://verena-design.com",
+      "favicon": "/favicon.ico",
+      "title": "VERENA Design",
+      "isDefault": false
+    },
+    "WoodPlast": {
+      "url": "https://woodplast.com",
+      "favicon": "/favicon.ico",
+      "title": "WoodPlast",
+      "isDefault": false
+    },
+    "UNIDeck": {
+      "url": "https://unideck.com.ua",
+      "favicon": "/assets/icons/favicon.ico",
+      "title": "UNIDeck",
+      "isDefault": false
+    },
+    "AltaGas": {
+      "url": "http://altagas.kiev.ua",
+      "favicon": "/assets/icons/favicon-16x16.png",
+      "title": "AltaGas",
+      "isDefault": false
+    },
+    "ZalVArend": {
+      "url": "http://zalvarendy.com",
+      "favicon": "/wp-content/themes/wdmgbootstrap3/favicon.ico",
+      "title": "Зал в аренду",
+      "isDefault": false
+    },
+    "Incorte": {
+      "url": "https://incorte.com",
+      "favicon": "/favicon.ico",
+      "title": "Incorte",
+      "isDefault": false
+    },
+    "MightStone": {
+      "url": "http://mightstone.ru",
+      "favicon": "/favicon.ico",
+      "title": "MightStone",
+      "isDefault": false
+    },
+    "MedLux": {
+      "url": "http://medlux-academy.pro",
+      "favicon": "/favicon.ico",
+      "title": "MedLux",
+      "isDefault": false
+    },
+    "StoneSolid": {
+      "url": "http://stone-solid.ru",
+      "favicon": "/design/favicon.ico",
+      "title": "StoneSolid",
+      "isDefault": false
+    },
+    "Gubar": {
+      "url": "http://new.gubar.com.ua",
+      "favicon": "/wp-content/themes/bootstrap/assets/icons/favicon.ico",
+      "title": "Gubar",
+      "isDefault": false
+    },
+    "ChildrenFlowers": {
+      "url": "http://ch-fl.com",
+      "favicon": "/favicon.ico",
+      "title": "Children Flowers",
       "isDefault": false
     }
   }
